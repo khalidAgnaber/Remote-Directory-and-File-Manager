@@ -1,5 +1,3 @@
-//Khalid Agnaber 101150
-//Intissar Gourainy 94357
 import java.io.*;
 import java.net.Socket;
 import java.util.StringTokenizer;
