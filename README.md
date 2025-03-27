@@ -1,2 +1,2 @@
 # Remote-Directory-and-File-Manager
-This client-server application allows users to remotely list and create directories and files with a simple protocol.
+This client-server application allows users to remotely list and create directories and files with a simple protocol. The client connects to the server, sends a login request with email and password, and receives a response indicating success or failure. After successful authentication, the client can send commands to either list existing directories and files, create new files, or create new directories. The server verifies the existence of requested resources and sends appropriate responses to inform the client of the outcome.
