@@ -1,5 +1,3 @@
-//Khalid Agnaber 101150
-//Intissar Gourainy 94357
 import java.net.ServerSocket;
 import java.net.Socket;
 
